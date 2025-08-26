@@ -8,4 +8,4 @@ O plágio destes códigos pode resultar em nota zero em qualquer atividade avali
 
 Não seja um dev “Ctrl C + Ctrl V”. Estude a lógica por trás do código e desenvolva sua própria resolução!
 
-Ass: Varmundt — a.k.a. Mauricio Miller
+ass: Mauricio Miller
